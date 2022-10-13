@@ -1,2 +1,2 @@
 # PX-Lib
-A desktop java framework
+Desktop Java game development framework
